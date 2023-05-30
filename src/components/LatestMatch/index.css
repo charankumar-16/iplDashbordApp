@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.latest-match-bg-container {
+  background-color: #0f172a;
+  border-radius: 5px;
+  font-family: 'Bree serif';
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.first {
+  width: 31%;
+}
+
+.competing-team {
+  font-size: 40px;
+}
+
+.second {
+  width: 20%;
+}
+
+.competing-team-logo {
+  width: 100%;
+}
+.third {
+  width: 31%;
+  text-align: right;
+}
+.head {
+  font-size: 25px;
+}
+.ans {
+  font-size: 17px;
+}
